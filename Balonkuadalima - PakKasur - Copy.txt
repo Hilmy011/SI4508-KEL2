@@ -6,5 +6,13 @@ Nama Kelompok:
 - Vabrizio Rivelino Ramadhan Moreno
 - Salma Alyasyifa
 
+<<<<<<< HEAD
+Balonku ada 5
+=======
 
+<<<<<<< HEAD
 Rupa-Rupa warnanya
+=======
+Hijau kuning kelabu
+>>>>>>> 9288d0081c5c649299b2a4b405d0be3b0770e5b4
+>>>>>>> 5f76aee71ac6962eda4b1831a5315fb834e92b0b

@@ -7,6 +7,9 @@ Nama Kelompok:
 - Salma Alyasyifa
 
 <<<<<<< HEAD
+Balonku ada 5
+=======
+<<<<<<< HEAD
 dorr..
 =======
 <<<<<<< HEAD
@@ -14,9 +17,15 @@ Balonku ada 5
 =======
 
 <<<<<<< HEAD
+
+Merah Muda dan Biru
+=======
+<<<<<<< HEAD
 Rupa-Rupa warnanya
 =======
 Hijau kuning kelabu
 >>>>>>> 9288d0081c5c649299b2a4b405d0be3b0770e5b4
 >>>>>>> 5f76aee71ac6962eda4b1831a5315fb834e92b0b
 >>>>>>> 58641f4b199a6c7f0bbbfce1f989d4bd584cca67
+>>>>>>> 4134d9a7ec409d8d0e43a950adbd5e5195e33ed7
+>>>>>>> 64860cc078b40cdc665597339828a1e2aa3c8343
